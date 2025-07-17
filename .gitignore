@@ -1,0 +1,19 @@
+# Node modules
+/node_modules
+
+# Test coverage reports
+/coverage
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv (ถ้ามีในอนาคต)
+/.env
+
+# OS metadata (macOS)
+/.DS_Store
+
+# Jest cache (optional)
+jest-cache/
